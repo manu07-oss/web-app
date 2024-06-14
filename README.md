@@ -1,6 +1,3 @@
-Certainly! Here's a revised `README.md` file that includes all the sections up to the License in one cohesive document:
-
-```markdown
 # Web App Project
 
 Welcome to the Web App project! This repository contains a sample web application built using Node.js, Express, MongoDB, Docker, Kubernetes, Prometheus, Grafana, and ELK Stack for monitoring and logging.
@@ -66,7 +63,7 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/your_username/web-app.git
    cd web-app
-   ```
+ ```
 
 2. **Install dependencies**:
    ```bash
