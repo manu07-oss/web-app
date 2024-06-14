@@ -105,11 +105,9 @@ On each push to the 'main' branch, the pipeline builds the Docker image, pushes 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
 
-## Notes:
- ```bash
-- **Customization**: Replace placeholders like `manu07-oss` with your actual GitHub username or organization name.
+### Notes:
+- **Customization**: Replace placeholders like `your_username` with your actual GitHub username or organization name.
 - **Details**: Add or modify sections based on your specific project requirements, such as architecture diagrams, API documentation, or additional setup instructions.
 - **License**: Ensure you include the appropriate license file (`LICENSE` in this case) in your project repository.
 
